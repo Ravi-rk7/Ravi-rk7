@@ -113,14 +113,9 @@ A real-time messaging application with JWT authentication, direct messages, onli
 ### `> git log --oneline --graph`
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravi-rk7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=A78BFA&rank_icon=github" alt="Ravikiran Tandale's GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Ravi-rk7&hide_border=true&background=0D1117&stroke=161B22&ring=A78BFA&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=8B949E" alt="Ravikiran Tandale's GitHub contribution streak" />
 
   <br /><br />
-
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi-rk7&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=221149&hide_border=true&custom_title=Ravikiran%27s%20Contribution%20Graph" alt="Ravikiran Tandale's GitHub contribution graph" />
-
 </div>
 
 ---
